@@ -8,6 +8,11 @@ This tutorial is a simple guide on how to get started with the SSTuino. Further 
 
 ## Setting up...
 
-Here are a list of things you require to start using the SSTuino.
+Here are a list of things you require to start using the SSTuino. **Installation of the Arduino IDE and drivers for the CP2102 will be included in the next section.**
 * A computer loaded with the Arduino IDE, available [here](http://https://www.arduino.cc/en/Main/Software)
 * For MacOS users (and Windows users who have to manually install the driver), please download the Sillicon Labs driver from [this website](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
+* The ESP01 Module (WiFi Chip)
+* USB to serial converter. The CP2102 is included in the kits provided to **School of Science and Technology, Singapore students.**
+* Most importantly, yourself. :)
+
+## Installation of Arduino IDE
